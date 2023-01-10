@@ -1,1 +1,1 @@
-# SoftUni-HTML-CSS-May-2022
+# SoftUni-HTML-CSS
