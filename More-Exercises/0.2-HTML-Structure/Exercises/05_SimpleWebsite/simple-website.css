@@ -63,10 +63,10 @@ section {
 
  footer {
     background-color: #444;
-    text-align: center;
-    padding: 10px;
  }
 
  footer p {
+    text-align: center;
+    padding: 10px;
     color: #fff;
  }
