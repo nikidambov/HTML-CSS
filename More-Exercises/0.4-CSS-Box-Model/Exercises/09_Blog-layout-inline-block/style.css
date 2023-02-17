@@ -1,0 +1,30 @@
+html {
+    font-family: Helvetica, sans-serif;
+    color: rgb(51, 51, 51);
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+img {
+    width: 500px;
+    height: 400px;
+}
+
+header {
+    width: 800px;
+    position: relative;
+}
+
+section {
+    width: 800px;
+}
+
+aside {
+    width: 300px;
+    position: absolute;
+    top: -15px;
+    left: 800px;
+}
+
